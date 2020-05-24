@@ -1,0 +1,24 @@
+header#main-header {
+    width: 100%;
+    height: 64px;
+    background: #4a90e2;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+
+header #logo {
+    width: 121px;
+    height: 24px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 42px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+header #perfil {
+    float: right;
+    margin-top: 20px;
+    margin-right: 74px;
+}
