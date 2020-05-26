@@ -1,0 +1,29 @@
+div#comment-area {
+    width: 660px;
+    background: #fff;
+    margin: 0 auto 0;
+    padding: 5px;
+    display: flex;
+}
+
+img#avatar-com {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+}
+
+div#comment {
+    width: 622px;
+    border-radius: 20px;
+    background: #eeeeee;
+    float: right;
+    padding: 10px;
+    font-size: 13px;
+    color: #3e3e3e;
+    align-content: center;
+}
+
+div#author-com {
+    display: inline;
+    font-weight: bold;
+}

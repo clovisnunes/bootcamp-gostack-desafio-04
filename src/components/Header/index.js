@@ -1,7 +1,6 @@
 import React from 'react';
 
 import './styles.css';
-import logo from './facebook-logo-1.png';
 
 const Header = () => (
     <header id="main-header">

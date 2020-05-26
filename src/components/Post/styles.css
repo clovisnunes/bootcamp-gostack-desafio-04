@@ -1,0 +1,40 @@
+div#post {
+    width: 700px;
+    background: #fff;
+}
+
+img#avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+div#sideimg {
+    padding-top: 10px;
+    padding-left: 20px;
+    float: left;
+}
+
+div#author {
+    margin-bottom: 20px;
+}
+
+div#author-name {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+div#date-post {
+    font-size: 11px;
+}
+
+div#content-area {
+    clear: both;
+    font-size: 14px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
